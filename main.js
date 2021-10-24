@@ -2,7 +2,7 @@ const linksSocialMedia = {
   github: 'willywesley',
   youtube: 'willywesley',
   instagram: 'willwesley',
-  facebook: 'maykbrito',
+  facebook: 'willy.lima.1441',
   twitter: 'willywesley'
 }
 
